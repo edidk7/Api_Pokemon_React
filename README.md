@@ -1,6 +1,6 @@
 # Pokedex
 
-List of pokemons on the basis of React + Redux
+List of pokemons on the basis of React
 
 ## Available Scripts
 
